@@ -12,7 +12,7 @@ In-Game:
 
 ![alt text](https://i.imgur.com/MgjnKNH.png)
 
-Action Shot:
+In-Game:
 
 ![alt text](https://i.imgur.com/7O5iF9v.png)
 
