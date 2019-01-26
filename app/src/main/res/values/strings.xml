@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="start_button">Start</string>
+    <string name="title">MINESWEEPER</string>
+    <string name="retry_button">Retry</string>
+    <string name="victory">VICTORY!</string>
+    <string name="game_over">GAME OVER</string>
+
+    <string name="nearbyMines_neg1">0</string>
+    <string name="nearbyMines_0">0</string>
+    <string name="nearbyMines_1">1</string>
+    <string name="nearbyMines_2">2</string>
+    <string name="nearbyMines_3">3</string>
+    <string name="nearbyMines_4">4</string>
+    <string name="nearbyMines_5">5</string>
+    <string name="nearbyMines_6">6</string>
+    <string name="nearbyMines_7">7</string>
+    <string name="nearbyMines_8">8</string>
+    <string name="F">F</string>
+    <string name="todo">TODO</string>
+    <string name="toFo">TODO</string>
+    <string name="togo">TODO</string>
+    <string name="toyo">TODO</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="click">Click</string>
+    <string name="flag">Flag</string>
+
+</resources>
