@@ -1,5 +1,5 @@
 # Minesweeper
-This is a simple 5x5 Minesweeper Android game developed on Android Studio
+An 8x8 Minesweeper game developed using Android Studio.
 
 ## Installation
 * Clone the repo
