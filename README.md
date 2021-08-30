@@ -1,26 +1,17 @@
 # Minesweeper
-Clone of Minesweeper created on Android Studio
+This is a simple 5x5 Minesweeper Android game developed on Android Studio
 
-This is a project I worked on outside of my coursework to learn more about event based programming, 
-and how to use Android Studio.
+## Installation
+* Clone the repo
+  ```bash
+  $ git clone https://github.com/GarthCalkwood/minesweeper.git
+  ```
+* Open the minesweeper folder in Android Studio
+* Hit Run
 
-Start Screen:
-
-![alt text](https://i.imgur.com/5VzbZto.png)
-
-In-Game:
-
-![alt text](https://i.imgur.com/MgjnKNH.png)
-
-In-Game:
-
-![alt text](https://i.imgur.com/7O5iF9v.png)
-
-Game Over:
-
-![alt text](https://i.imgur.com/BW1fAYS.png)
-
-Victory!
-
-![alt text](https://i.imgur.com/5CE909U.png)
-
+## Screenshots
+<img src="https://i.imgur.com/5VzbZto.png" width=300 alt="Start screen">
+<img src="https://i.imgur.com/MgjnKNH.png" width=300 alt="In-game">
+<img src="https://i.imgur.com/7O5iF9v.png" width=300 alt="In-game">
+<img src="https://i.imgur.com/5CE909U.png" width=300 alt="Victory">
+<img src="https://i.imgur.com/BW1fAYS.png" width=300 alt="Game over">
